@@ -20,5 +20,8 @@
     <li class="nav-item">
       <a class="nav-link" href="connexion.php">connexion</a>
     </li>
+    <li class="nav-item">
+      <a class="nav-link" href="creation.php">création</a>
+    </li>
   </ul>
 </nav>

@@ -10,7 +10,7 @@ include 'header.php';
   </div>
 
   <div class="form-floating mt-3 mb-3">
-    <input type="text" class="form-control" id="pwd" placeholder="Enter password" name="pswd">
+    <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pswd">
     <label for="pwd">Password</label>
   </div>
   <button type="submit" class="btn btn-primary">Primary</button>
